@@ -3,4 +3,4 @@ function() {
   $target.hide();
 }
 
-$('#hide_this')
+$('#hide_this').click()
